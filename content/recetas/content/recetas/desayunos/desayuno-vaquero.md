@@ -31,7 +31,7 @@ Jugueton: Desayuno vaquero
 - Salsa – al gusto
 
 ## Preparacion
-1. Cocinar la papa en sartén con aceite hasta que esté dorada y suave.
+1. Cortar la papa en cubos y cocinar en sartén con aceite hasta que esté dorada y suave.
 2. Agregar la salchicha y dorar ligeramente.
 3. Batir los huevos con sal y pimienta.
 4. Incorporar los huevos al sartén y mezclar.
