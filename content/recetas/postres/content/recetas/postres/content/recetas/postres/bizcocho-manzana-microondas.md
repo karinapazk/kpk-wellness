@@ -39,6 +39,6 @@ Jugueton: Pastel express de manzana
 - Grasas: 6 g
 - Carbohidratos: 22 g
 
-## Costeo
-- Total: 18 MXN
-- Por porcion: 9 MXN
+## Costeo aproximado
+Costo total de la receta: $25 MXN  
+Costo por porción: $12–13 MXN  
