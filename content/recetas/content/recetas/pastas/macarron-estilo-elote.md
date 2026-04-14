@@ -35,10 +35,10 @@ Jugueton: Pasta elotera
 - Pimienta – al gusto
 
 ## Preparacion
-1. Cocer la pasta en agua con sal y escurrir.
-2. Calentar el aceite en un sartén.
+1. Cocer la pasta en abundante agua hirviendo con sal. Escurrir y enfriar.
+2. Aparte, calentar el aceite en un sartén.
 3. Sofreír la cebolla y agregar el elote.
-4. Saltear ligeramente.
+4. Saltear ligeramente hasta que la cebolla este transparente y los granos de elote ligeramente dorados.
 5. Mezclar la pasta con el elote, jamón y queso.
 6. Agregar mayonesa y jugo de limón.
 7. Sazonar con sal y pimienta.
