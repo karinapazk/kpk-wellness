@@ -44,6 +44,6 @@ Jugueton: Migas con carácter
 - Grasas: 15 g
 - Carbohidratos: 28 g
 
-## Costeo
-- Total: 40 MXN
-- Por porcion: 10 MXN
+## Costeo aproximado
+Costo total de la receta: $75 MXN  
+Costo por porción: $18–19 MXN  
