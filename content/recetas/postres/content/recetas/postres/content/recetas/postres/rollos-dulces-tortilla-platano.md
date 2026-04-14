@@ -45,6 +45,6 @@ Jugueton: Sushi dulce de plátano
 - Grasas: 14 g
 - Carbohidratos: 42 g
 
-## Costeo
-- Total: 28 MXN
-- Por porcion: 14 MXN
+## Costeo aproximado
+Costo total de la receta: $58 MXN  
+Costo por porción: $28–30 MXN  
