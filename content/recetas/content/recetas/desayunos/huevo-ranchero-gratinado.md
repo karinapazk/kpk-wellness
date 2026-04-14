@@ -30,7 +30,7 @@ Jugueton: Ranchero con upgrade
 
 ## Preparacion
 1. Calentar la salsa roja en un sartén.
-2. Calentar las tortillas en comal.
+2. Calentar las tortillas en comal hasta que estes ligeramente tostadas, agregar aceite si desea una textura frita.
 3. Freír los huevos al gusto.
 4. Colocar las tortillas en un plato.
 5. Colocar los huevos encima.
