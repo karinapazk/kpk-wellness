@@ -45,6 +45,6 @@ Jugueton: Pastel de papa y huevo
 - Grasas: 18 g
 - Carbohidratos: 20 g
 
-## Costeo
-- Total: 30 MXN
-- Por porcion: 7.5 MXN
+## Costeo aproximado
+Costo total de la receta: $75 MXN  
+Costo por porción: $18–19 MXN  
