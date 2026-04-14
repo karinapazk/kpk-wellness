@@ -45,6 +45,6 @@ Jugueton: Ranchero con upgrade
 - Grasas: 20 g
 - Carbohidratos: 22 g
 
-## Costeo
-- Total: 35 MXN
-- Por porcion: 17.5 MXN
+## Costeo aproximado
+Costo total de la receta: $70 MXN  
+Costo por porción: $35 MXN  
