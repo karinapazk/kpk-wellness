@@ -21,7 +21,7 @@ Jugueton: Pasta elotera
 - Cuchillo
 
 ## Ingredientes
-- Pasta tipo macarrón – 400 g (1 paquete de 500 g)
+- Pasta tipo macarrón – 400 g 
 - Elote en lata – 1 taza (200 g)
 - Cebolla – ¼ pieza (50 g), picada
 - Queso manchego – 120 g, en cubos
