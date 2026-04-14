@@ -33,7 +33,7 @@ Jugueton: Pasta atunada con carácter
 - Pimienta – al gusto
 
 ## Preparacion
-1. Cocer la pasta en agua con sal y escurrir.
+1. Cocer la pasta en abundante agua hirviendo con sal y escurrir.
 2. Calentar el aceite en un sartén.
 3. Sofreír la cebolla y el ajo hasta que estén suaves.
 4. Agregar el atún y saltear ligeramente.
