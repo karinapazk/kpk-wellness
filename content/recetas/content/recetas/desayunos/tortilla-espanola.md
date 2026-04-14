@@ -29,7 +29,7 @@ Jugueton: Pastel de papa y huevo
 - Sal – al gusto
 
 ## Preparacion
-1. Calentar el aceite en un sartén a fuego medio.
+1. Calentar el aceite en un sartén antiadherente a fuego medio bajo.
 2. Cocinar la papa y la cebolla hasta que estén suaves sin dorar demasiado.
 3. Escurrir el exceso de aceite.
 4. Batir los huevos con sal en un bowl.
