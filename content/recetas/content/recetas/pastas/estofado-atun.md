@@ -21,7 +21,7 @@ Jugueton: Pasta atunada con carácter
 - Cuchillo
 
 ## Ingredientes
-- Pasta – 400 g (1 paquete de 500 g)
+- Pasta – 400 g 
 - Atún en lata – 2 latas (280 g drenado)
 - Puré de tomate condimentado – 2 tazas (500 ml)
 - Cebolla – ½ pieza (100 g), picada
