@@ -21,7 +21,7 @@ Jugueton: Pasta roja con queso
 - Cuchara
 
 ## Ingredientes
-- Espagueti – 400 g (1 paquete de 500 g)
+- Espagueti – 400 g 
 - Puré de tomate condimentado – 2 tazas (500 ml)
 - Mantequilla o aceite de oliva – 1 cda (10 g / 10 ml)
 - Queso manchego rallado – 150 g
