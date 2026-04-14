@@ -29,7 +29,7 @@ Jugueton: Tostada verde con proteína
 - Aceite de oliva – 1 cda (10 ml)
 
 ## Preparacion
-1. Cocer los huevos en agua durante 10 minutos.
+1. Cocer los huevos en agua hirviendo durante 10 minutos.
 2. Tostar el pan en sartén o tostador hasta dorar.
 3. Machacar el aguacate en un bowl con sal y pimienta.
 4. Pelar y cortar los huevos en rebanadas.
