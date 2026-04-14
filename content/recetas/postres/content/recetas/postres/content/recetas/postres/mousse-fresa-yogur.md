@@ -39,6 +39,6 @@ Jugueton: Postre rosa sin culpa
 - Grasas: 2 g
 - Carbohidratos: 18 g
 
-## Costeo
-- Total: 30 MXN
-- Por porcion: 7.5 MXN
+## Costeo aproximado
+Costo total de la receta: $39 MXN  
+Costo por porción: $9–10 MXN  
