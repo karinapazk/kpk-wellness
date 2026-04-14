@@ -22,7 +22,7 @@ Jugueton: Pasta con punch
 - Rallador
 
 ## Ingredientes
-- Pasta – 400 g (1 paquete de 500 g)
+- Pasta – 400 g 
 - Tocino – 150 gr (8 rebanadas gruesas)
 - Cebolla – ½ pieza (100 g), picada
 - Ajo – 2 dientes (10 g), picados
