@@ -23,7 +23,7 @@ Jugueton: Pasta con punch
 
 ## Ingredientes
 - Pasta – 400 g (1 paquete de 500 g)
-- Tocino – 150 g
+- Tocino – 150 gr (8 rebanadas gruesas)
 - Cebolla – ½ pieza (100 g), picada
 - Ajo – 2 dientes (10 g), picados
 - Aceitunas sin hueso – ½ taza (80 g)
