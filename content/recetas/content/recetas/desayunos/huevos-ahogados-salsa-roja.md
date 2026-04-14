@@ -41,6 +41,6 @@ Jugueton: Huevos en salsa
 - Grasas: 14 g
 - Carbohidratos: 10 g
 
-## Costeo
-- Total: 28 MXN
-- Por porcion: 14 MXN
+## Costeo aproximado
+Costo total de la receta: $55 MXN  
+Costo por porción: $27–28 MXN  
