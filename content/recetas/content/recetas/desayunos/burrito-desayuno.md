@@ -45,6 +45,6 @@ Jugueton: Burrito power mañanero
 - Grasas: 28 g
 - Carbohidratos: 25 g
 
-## Costeo
-- Total: 45 MXN
-- Por porcion: 22.5 MXN
+## Costeo aproximado
+Costo total de la receta: $95 MXN  
+Costo por porción: $47–48 MXN  
