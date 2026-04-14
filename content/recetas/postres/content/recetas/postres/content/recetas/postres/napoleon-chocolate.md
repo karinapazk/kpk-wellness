@@ -41,6 +41,6 @@ Jugueton: Carlota de chocolate elevada
 - Grasas: 10 g
 - Carbohidratos: 42 g
 
-## Costeo
-- Total: 45 MXN
-- Por porcion: 11.25 MXN
+## Costeo aproximado
+Costo total de la receta: $115 MXN  
+Costo por porción: $28–30 MXN  
