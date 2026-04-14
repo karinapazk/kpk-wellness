@@ -31,7 +31,7 @@ Jugueton: Huevos en salsa
 2. Sofreír la cebolla hasta que esté suave.
 3. Agregar la salsa roja y calentar.
 4. Romper los huevos directamente sobre la salsa.
-5. Tapar el sartén y cocinar hasta que los huevos estén al punto deseado.
+5. Tapar el sartén y cocinar hasta que los huevos por 3 minutos para una yema suave o hasta que estén al punto deseado.
 6. Sazonar con sal.
 7. Servir caliente.
 
