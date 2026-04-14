@@ -40,6 +40,6 @@ Jugueton: Omelette crujiente
 - Grasas: 20 g
 - Carbohidratos: 15 g
 
-## Costeo
-- Total: 25 MXN
-- Por porcion: 12.5 MXN
+## Costeo aproximado
+Costo total de la receta: $50 MXN  
+Costo por porción: $25 MXN  
