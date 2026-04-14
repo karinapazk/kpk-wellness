@@ -31,7 +31,7 @@ Jugueton: Mollete norteño
 ## Preparacion
 1. Cortar los bolillos por la mitad.
 2. Untar mantequilla sobre el pan.
-3. Calentar ligeramente el pan en sartén o horno.
+3. Calentar ligeramente el pan en sartén u horno.
 4. Untar los frijoles sobre cada mitad.
 5. Agregar la carne seca desmenuzada.
 6. Colocar el queso encima.
