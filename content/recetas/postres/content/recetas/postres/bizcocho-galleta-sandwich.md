@@ -39,6 +39,6 @@ Jugueton: Pastel de galleta en taza sin horno
 - Grasas: 14 g
 - Carbohidratos: 45 g
 
-## Costeo
-- Total: 12.5 MXN
-- Por porcion: 12.5 MXN
+## Costeo aproximado
+Costo total de la receta: $25 MXN  
+Costo por porción: $25 MXN  
