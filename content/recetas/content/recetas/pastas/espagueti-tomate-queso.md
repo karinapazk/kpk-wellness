@@ -29,7 +29,7 @@ Jugueton: Pasta roja con queso
 - Pimienta – al gusto
 
 ## Preparacion
-1. Cocer el espagueti en agua con sal hasta que esté al dente.
+1. Cocer el espagueti en abundante agua hirviendo con sal hasta que esté al dente.
 2. Escurrir y reservar caliente.
 3. Calentar la mantequilla o el aceite en un sartén.
 4. Agregar el puré de tomate y calentar.
