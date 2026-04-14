@@ -44,6 +44,6 @@ Jugueton: Desayuno vaquero
 - Grasas: 25 g
 - Carbohidratos: 35 g
 
-## Costeo
-- Total: 50 MXN
-- Por porcion: 25 MXN
+## Costeo aproximado
+Costo total de la receta: $95 MXN  
+Costo por porción: $47–48 MXN  
