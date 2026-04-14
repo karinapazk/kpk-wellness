@@ -25,7 +25,7 @@ Jugueton: Pasta elotera
 - Elote en lata – 1 taza (200 g)
 - Cebolla – ¼ pieza (50 g), picada
 - Queso manchego – 120 g, en cubos
-- Jamón – 150 g, en cubos
+- Jamón – 150 g, en cubos (6 rebanadas)
 - Mayonesa – 3 cdas (45 g)
 - Jugo de limón – 2 cdas (30 ml)
 - Queso parmesano en polvo – 3 cdas (30 g)
