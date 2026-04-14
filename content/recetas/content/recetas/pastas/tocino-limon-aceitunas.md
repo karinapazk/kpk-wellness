@@ -35,15 +35,16 @@ Jugueton: Pasta con punch
 - Pimienta – al gusto
 
 ## Preparacion
-1. Cocer la pasta en agua con sal y escurrir.
-2. Rallar la cáscara del limón y reservar.
+1. Cocer la pasta en abundante agua hirviendo con sal y escurrir.
+2. Rallar la cáscara del limón (solo la corteza) y reservar.
 3. Freír el tocino hasta que esté dorado.
 4. Retirar el exceso de grasa dejando una pequeña cantidad.
 5. Sofreír la cebolla y el ajo en la grasa del tocino.
-6. Agregar aceitunas y alcaparras.
+6. Agregar aceitunas y alcaparras y cocinar hasta que esten ligeramente doradas.
 7. Incorporar la pasta y el tocino.
-8. Exprimir el jugo de limón y mezclar.
-9. Servir con ralladura de limón, perejil y parmesano.
+8. Apagar fuego.
+9. Exprimir el jugo de limón y mezclar.
+10. Servir con ralladura de limón, perejil y parmesano.
 
 ## Macros por persona (estimado)
 - Calorias: 420 kcal
