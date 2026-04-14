@@ -44,6 +44,6 @@ Jugueton: Tostada verde con proteína
 - Grasas: 18 g
 - Carbohidratos: 20 g
 
-## Costeo
-- Total: 35 MXN
-- Por porcion: 17.5 MXN
+## Costeo aproximado
+Costo total de la receta: $60 MXN  
+Costo por porción: $30 MXN  
