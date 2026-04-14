@@ -45,6 +45,6 @@ Jugueton: Mollete norteño
 - Grasas: 18 g
 - Carbohidratos: 45 g
 
-## Costeo
-- Total: 40 MXN
-- Por porcion: 20 MXN
+## Costeo aproximado
+Costo total de la receta: $110 MXN  
+Costo por porción: $55 MXN  
